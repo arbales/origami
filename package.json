@@ -1,0 +1,8 @@
+{
+  "install": {
+    "Origami":"~/Library/Graphics/Quartz Composer Patches",
+    "Origami.plugin":"~/Library/Graphics/Quartz Composer Patches"
+  },
+  "removeFiles":true,
+  "remove": ["~/Library/Graphics/Quartz Composer Patches/Origami.plugin"]
+}
